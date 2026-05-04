@@ -1,0 +1,101 @@
+id,species,voivodeship,county,commune,locality,v1,v2,v3
+I/1/2024,Wild boar,lubelskie,parczewski,Milanów,Rudzieniec,I,II,III
+I/1/2025,Wild boar,lubelskie,parczewski,Parczew,Tyśmienica,I,II,III
+I/1/2026,Wild boar,lubelskie,parczewski,Parczew,Królewski Dwór,I,II,III
+I/1/2027,Wild boar,lubelskie,parczewski,Milanów,Cichostów Kolonia,I,II,III
+I/1/2028,Wild boar,lubelskie,włodawski,Włodawa,Wyryki,I,II,III
+I/1/2029,Wild boar,mazowieckie,ostrołęcki,Ostrołęka,Krysiaki,I,II,III
+I/1/2030,Wild boar,mazowieckie,siedlecki,Siedlce,Stok Lacki,I,II,III
+I/1/2031,Wild boar,mazowieckie,żyrardowski,Żyrardów,Mszczonów,I,II,III
+I/1/2032,Wild boar,podlaskie,białostocki,Białystok,Turośń Kościelna,I,II,III
+I/1/2033,Wild boar,podlaskie,łomżyński,Łomża,Piątnica,I,II,III
+I/1/2034,Wild boar,warmińsko-mazurskie,olsztyński,Olsztyn,Stawiguda,I,II,III
+I/1/2035,Wild boar,warmińsko-mazurskie,szczycieński,Szczytno,Rozogi,I,II,III
+I/1/2036,Wild boar,kujawsko-pomorskie,bydgoski,Bydgoszcz,Białe Błota,I,II,III
+I/1/2037,Wild boar,kujawsko-pomorskie,toruński,Toruń,Obrowo,I,II,III
+I/1/2038,Wild boar,wielkopolskie,poznański,Poznań,Swarzędz,I,II,III
+I/1/2039,Wild boar,wielkopolskie,kaliski,Kalisz,Opatówek,I,II,III
+I/1/2040,Wild boar,łódź,łódzki wschodni,Łódź,Rzgów,I,II,III
+I/1/2041,Wild boar,łódź,piotrkowski,Piotrków Trybunalski,Rozprza,I,II,III
+I/1/2042,Wild boar,małopolskie,krakowski,Kraków,Wieliczka,I,II,III
+I/1/2043,Wild boar,małopolskie,tarnowski,Tarnów,Tuchów,I,II,III
+I/1/2044,Wild boar,śląskie,częstochowski,Częstochowa,Mstów,I,II,III
+I/1/2045,Wild boar,śląskie,rybnicki,Rybnik,Czerwionka-Leszczyny,I,II,III
+I/1/2046,Wild boar,dolnośląskie,wrocławski,Wrocław,Długołęka,I,II,III
+I/1/2047,Wild boar,dolnośląskie,jeleniogórski,Jelenia Góra,Mysłakowice,I,II,III
+I/1/2048,Wild boar,zachodniopomorskie,szczeciński,Szczecin,Goleniów,I,II,III
+I/1/2049,Wild boar,lubelskie,chełmski,Chełm,Rejowiec,II,I,IV
+I/1/2050,Wild boar,lubelskie,zamojski,Zamość,Łabunie,II,I,IV
+I/1/2051,Wild boar,podkarpackie,rzeszowski,Rzeszów,Boguchwała,II,I,IV
+I/1/2052,Wild boar,podkarpackie,przemyski,Przemyśl,Medyka,II,I,IV
+I/1/2053,Wild boar,podkarpackie,sanocki,Sanok,Lesko,II,I,IV
+I/1/2054,Wild boar,małopolskie,nowosądecki,Nowy Sącz,Stary Sącz,II,I,IV
+I/1/2055,Wild boar,małopolskie,olkuski,Olkusz,Wolbrom,II,I,IV
+I/1/2056,Wild boar,śląskie,bielski,Bielsko-Biała,Czechowice-Dziedzice,II,I,IV
+I/1/2057,Wild boar,śląskie,gliwicki,Gliwice,Knurów,II,I,IV
+I/1/2058,Wild boar,opolskie,opolski,Opole,Prószków,II,I,IV
+I/1/2059,Wild boar,opolskie,kędzierzyński,Kędzierzyn-Koźle,Reńska Wieś,II,I,IV
+I/1/2060,Wild boar,dolnośląskie,legnicki,Legnica,Kunice,II,I,IV
+I/1/2061,Wild boar,dolnośląskie,wałbrzyski,Wałbrzych,Świdnica,II,I,IV
+I/1/2062,Wild boar,lubuskie,zielonogórski,Zielona Góra,Świdnica,II,I,IV
+I/1/2063,Wild boar,lubuskie,gorzowski,Gorzów Wielkopolski,Santok,II,I,IV
+I/1/2064,Wild boar,zachodniopomorskie,stargardzki,Stargard,Dobrzany,II,I,IV
+I/1/2065,Wild boar,zachodniopomorskie,koszaliński,Koszalin,Sianów,II,I,IV
+I/1/2066,Wild boar,pomorskie,gdański,Gdańsk,Pruszcz Gdański,II,I,IV
+I/1/2067,Wild boar,pomorskie,słupski,Słupsk,Kobylnica,II,I,IV
+I/1/2068,Wild boar,kujawsko-pomorskie,włocławski,Włocławek,Brześć Kujawski,II,I,IV
+I/1/2069,Wild boar,kujawsko-pomorskie,inowrocławski,Inowrocław,Gniewkowo,II,I,IV
+I/1/2070,Wild boar,wielkopolskie,gnieźnieński,Gniezno,Trzemeszno,II,I,IV
+I/1/2071,Wild boar,wielkopolskie,leszczyński,Leszno,Osieczna,II,I,IV
+I/1/2072,Wild boar,mazowieckie,radomski,Radom,Jedlińsk,II,I,IV
+I/1/2073,Wild boar,mazowieckie,płocki,Płock,Stara Biała,II,I,IV
+I/1/2074,Wild boar,podlaskie,suwalski,Suwałki,Szypliszki,III,III,II
+I/1/2075,Wild boar,podlaskie,augustowski,Augustów,Sztabin,III,III,II
+I/1/2076,Wild boar,warmińsko-mazurskie,ełcki,Ełk,Stare Juchy,III,III,II
+I/1/2077,Wild boar,warmińsko-mazurskie,giżycki,Giżycko,Miłki,III,III,II
+I/1/2078,Wild boar,warmińsko-mazurskie,mrągowski,Mrągowo,Piecki,III,III,II
+I/1/2079,Wild boar,pomorskie,kartuski,Kartuzy,Przodkowo,III,III,II
+I/1/2080,Wild boar,pomorskie,wejherowski,Wejherowo,Luzino,III,III,II
+I/1/2081,Wild boar,pomorskie,starogardzki,Starogard Gdański,Skórcz,III,III,II
+I/1/2082,Wild boar,kujawsko-pomorskie,świecki,Świecie,Nowe,III,III,II
+I/1/2083,Wild boar,kujawsko-pomorskie,nakielski,Nakło nad Notecią,Mrocza,III,III,II
+I/1/2084,Wild boar,wielkopolskie,szamotulski,Szamotuły,Obrzycko,III,III,II
+I/1/2085,Wild boar,wielkopolskie,turecki,Turek,Malanów,III,III,II
+I/1/2086,Wild boar,łódź,sieradzki,Sieradz,Złoczew,III,III,II
+I/1/2087,Wild boar,łódź,wieluński,Wieluń,Pajęczno,III,III,II
+I/1/2088,Wild boar,mazowieckie,sierpecki,Sierpc,Szczutowo,III,III,II
+I/1/2089,Wild boar,mazowieckie,mławski,Mława,Strzegowo,III,III,II
+I/1/2090,Wild boar,mazowieckie,przasnyski,Przasnysz,Krasnosielc,III,III,II
+I/1/2091,Wild boar,podlaskie,bielski,Bielsk Podlaski,Brańsk,III,III,II
+I/1/2092,Wild boar,lubelskie,hrubieszowski,Hrubieszów,Mircze,III,III,II
+I/1/2093,Wild boar,lubelskie,krasnostawski,Krasnystaw,Żółkiewka,III,III,II
+I/1/2094,Wild boar,podkarpackie,jasielski,Jasło,Dębowiec,III,III,II
+I/1/2095,Wild boar,podkarpackie,krośnieński,Krosno,Miejsce Piastowe,III,III,II
+I/1/2096,Wild boar,małopolskie,limanowski,Limanowa,Dobra,III,III,II
+I/1/2097,Wild boar,małopolskie,myślenicki,Myślenice,Dobczyce,III,III,II
+I/1/2098,Wild boar,śląskie,raciborski,Racibórz,Krzanowice,III,III,II
+I/1/2099,Wild boar,lubelskie,lubartowski,Lubartów,Ostrów Lubelski,IV,IV,I
+I/1/2100,Wild boar,lubelskie,rycki,Ryki,Dęblin,IV,IV,I
+I/1/2101,Wild boar,mazowieckie,garwoliński,Garwolin,Łaskarzew,IV,IV,I
+I/1/2102,Wild boar,mazowieckie,kozienicki,Kozienice,Głowaczów,IV,IV,I
+I/1/2103,Wild boar,mazowieckie,białobrzeski,Białobrzegi,Nowe Miasto nad Pilicą,IV,IV,I
+I/1/2104,Wild boar,świętokrzyskie,kielecki,Kielce,Morawica,IV,IV,I
+I/1/2105,Wild boar,świętokrzyskie,sandomierski,Sandomierz,Klimontów,IV,IV,I
+I/1/2106,Wild boar,świętokrzyskie,ostrowiecki,Ostrowiec Świętokrzyski,Bodzechów,IV,IV,I
+I/1/2107,Wild boar,świętokrzyskie,starachowicki,Starachowice,Brody,IV,IV,I
+I/1/2108,Wild boar,małopolskie,miechowski,Miechów,Słaboszów,IV,IV,I
+I/1/2109,Wild boar,małopolskie,proszowicki,Proszowice,Koszyce,IV,IV,I
+I/1/2110,Wild boar,śląskie,zawierciański,Zawiercie,Ogrodzieniec,IV,IV,I
+I/1/2111,Wild boar,śląskie,lubliniecki,Lubliniec,Koszęcin,IV,IV,I
+I/1/2112,Wild boar,opolskie,nyski,Nysa,Otmuchów,IV,IV,I
+I/1/2113,Wild boar,opolskie,brzeski,Brzeg,Olszanka,IV,IV,I
+I/1/2114,Wild boar,dolnośląskie,oleśnicki,Oleśnica,Bierutów,IV,IV,I
+I/1/2115,Wild boar,dolnośląskie,górowski,Góra,Wąsosz,IV,IV,I
+I/1/2116,Wild boar,lubuskie,żagański,Żagań,Szprotawa,IV,IV,I
+I/1/2117,Wild boar,lubuskie,słubicki,Słubice,Rzepin,IV,IV,I
+I/1/2118,Wild boar,zachodniopomorskie,drawski,Drawsko Pomorskie,Złocieniec,IV,IV,I
+I/1/2119,Wild boar,zachodniopomorskie,łobeski,Łobez,Resko,IV,IV,I
+I/1/2120,Wild boar,pomorskie,bytowski,Bytów,Miastko,IV,IV,I
+I/1/2121,Wild boar,pomorskie,chojnicki,Chojnice,Brusy,IV,IV,I
+I/1/2122,Wild boar,kujawsko-pomorskie,grudziądzki,Grudziądz,Łasin,IV,IV,I
+I/1/2123,Wild boar,kujawsko-pomorskie,lipnowski,Lipno,Kikół,IV,IV,I

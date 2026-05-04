@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+env/
+.env
+*.egg-info/
+
+# Dane wynikowe – generowane przez pipeline, nie wersjonujemy
+result/result_example.xlsx
+result/geo_cache.json
+result/maps/
+
+# Dane wejściowe – oryginalne dane są poufne
+# (example_data.csv jest wyjątkiem i JEST wersjonowany)
+data/*.xlsx
+data/*.csv
+!data/example_data.csv
+
+# Shapefile – za duży i dostępny publicznie, nie wersjonujemy
+data/shp/
+
+# macOS
+.DS_Store
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
